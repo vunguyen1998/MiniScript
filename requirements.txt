@@ -1,0 +1,4 @@
+# Usage: pip install -r requirements.txt
+
+pyperclip
+python-docx

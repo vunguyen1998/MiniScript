@@ -1,0 +1,5 @@
+I. Names
+  Trong Names sẽ bao gồm nhiều loại Name
+1. Tên nhân vật, môn phái, gia tộc, địa danh, bí cảnh
+2. Tên chiêu thức, đan dược, trận pháp, tu vi, cảnh giới, cấp bậc
+0. Tên dùng chung - chưa phân loại

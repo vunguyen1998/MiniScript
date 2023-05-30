@@ -1,0 +1,1 @@
+khi-van | ten_cap_bac cap_bac trang_bi = trang_bi cap_bac ten_cap_bac
