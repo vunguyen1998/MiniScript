@@ -1,0 +1,19 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+bacsi:Khi Bác Sĩ Mở Hack (Dịch)
+bacsit:Bác Sĩ Trần, Đừng Sợ (Dịch)
+binhchung:Lãnh Chúa Toàn Dân: Binh Chủng Của Ta Biến Dị (Dịch)
+caudao:Cẩu Đạo: Lập Gia Tộc Ở Yêu Ma Giới (Dịch)
+codao:Cổ Đạo Trường Sinh: Bắt Đầu Tu Luyện Từ Si Tình Cổ (Dịch)
+giamgia10:Mình gửi bạn mã giảm giá 10% truyện . CODE: 
+giamgia15:Mình gửi bạn mã giảm giá 15% truyện . CODE: 
+giamgia20:Mình gửi bạn mã giảm giá 20% truyện . CODE: 
+giamgia25:Mình gửi bạn mã giảm giá 25% truyện . CODE: 
+giamgia30:Mình gửi bạn mã giảm giá 30% truyện . CODE: 
+giamgia35:Mình gửi bạn mã giảm giá 35% truyện . CODE: 
+giavien:Ta Xây Gia Viên Trên Lưng Huyền Vũ (Dịch)
+khivan:Phản Phái Vô Địch: Mang Theo Đồ Đệ Đi Săn Khí Vận (Dịch)
+maymoc:Máy Móc Toàn Cầu Tiến Hóa (Dịch)
+phucdia:Phúc Địa Toàn Dân: Ta Có Thể Thêm Điểm Kiến Trúc (Dịch)
+tienvuc:Lãnh Chúa Toàn Dân: Bắt Đầu Xây Dựng Tiên Vực Bất Hủ (Dịch)
+thankhi:Lãnh Chúa Toàn Dân: Điểm Danh Nhận Giảm Giá Thần Khí (Dịch)
+thiendao:Treo Máy Ngàn Tỷ Năm, Ta Còn Có Tiền Hơn Thiên Đạo (Dịch)
